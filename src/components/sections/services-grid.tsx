@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react";
 
 const services = [
   {
-    iconSrc: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/18-3.png",
+    iconSrc: "/images/content/services-overview.png",
     title: "Advocacy",
     description: "Comprehensive Policy Framework & Strategic Business Development Initiatives",
   },

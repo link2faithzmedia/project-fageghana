@@ -10,7 +10,7 @@ const AboutSection = () => {
           {/* Left Column: Image */}
           <div className="flex justify-center px-4 lg:px-0">
             <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png"
+              src="/images/activities/networking.png"
               alt=""
               width={550}
               height={580}

@@ -12,7 +12,7 @@ const pressReleases = [
     date: "January 15, 2025",
     category: "Press Release",
     excerpt: "The Federation of Associations of Ghanaian Exporters reports a 28% increase in non-traditional exports, reaching $4.2 billion in total export value for the 2024 fiscal year.",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/5-12.png",
+    image: "/images/activities/trade-mission.png",
     downloadUrl: "#"
   },
   {
@@ -21,7 +21,7 @@ const pressReleases = [
     date: "December 10, 2024",
     category: "Partnership",
     excerpt: "New €5 million partnership will provide training and support to 500+ Ghanaian exporters over the next three years, focusing on quality standards and market access.",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png",
+    image: "/images/activities/networking.png",
     downloadUrl: "#"
   },
   {
@@ -30,7 +30,7 @@ const pressReleases = [
     date: "November 22, 2024",
     category: "Event",
     excerpt: "FAGE's flagship coconut festival successfully brought together producers, exporters, and international buyers, resulting in 15 new export contracts worth $8.5 million.",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Coconut-Funeral-8.png",
+    image: "/images/activities/coconut-festival.png",
     downloadUrl: "#"
   },
   {
@@ -39,7 +39,7 @@ const pressReleases = [
     date: "October 5, 2024",
     category: "Innovation",
     excerpt: "Revolutionary new platform streamlines export documentation process, reducing processing time by 60% and helping members navigate complex international regulations.",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/tj-blog-1-10.webp",
+    image: "/images/content/export-standards.webp",
     downloadUrl: "#"
   }
 ];
@@ -50,42 +50,42 @@ const photoGallery = [
     title: "Ghana Horticulture Expo 2024",
     date: "August 2024",
     imageCount: 45,
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Sylvester-Mensah-2048x1365-1-1536x1024-1-9.jpg"
+    thumbnail: "/images/activities/training-workshop.jpg"
   },
   {
     id: 2,
     title: "Trade Mission to Netherlands",
     date: "July 2024",
     imageCount: 32,
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/10-13.png"
+    thumbnail: "/images/activities/trade-fair.png"
   },
   {
     id: 3,
     title: "Export Training Workshop",
     date: "June 2024",
     imageCount: 28,
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png"
+    thumbnail: "/images/activities/networking.png"
   },
   {
     id: 4,
     title: "National Coconut Festival",
     date: "August 2024",
     imageCount: 56,
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Coconut-Funeral-8.png"
+    thumbnail: "/images/activities/coconut-festival.png"
   },
   {
     id: 5,
     title: "International Trade Fair 2024",
     date: "May 2024",
     imageCount: 41,
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/5-12.png"
+    thumbnail: "/images/activities/trade-mission.png"
   },
   {
     id: 6,
     title: "Member Success Stories",
     date: "Ongoing",
     imageCount: 67,
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/images_7.png"
+    thumbnail: "/images/products/pineapple.png"
   }
 ];
 
@@ -95,7 +95,7 @@ const videoGallery = [
     title: "FAGE: 30 Years of Empowering Ghanaian Exporters",
     duration: "3:45",
     date: "December 2024",
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/5-12.png",
+    thumbnail: "/images/activities/trade-mission.png",
     views: "12K"
   },
   {
@@ -103,7 +103,7 @@ const videoGallery = [
     title: "Ghana Horticulture Expo 2024 Highlights",
     duration: "5:20",
     date: "August 2024",
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Sylvester-Mensah-2048x1365-1-1536x1024-1-9.jpg",
+    thumbnail: "/images/activities/training-workshop.jpg",
     views: "8.5K"
   },
   {
@@ -111,7 +111,7 @@ const videoGallery = [
     title: "From Farm to Export: A Member's Journey",
     duration: "7:12",
     date: "July 2024",
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/images_7.png",
+    thumbnail: "/images/products/pineapple.png",
     views: "15K"
   },
   {
@@ -119,7 +119,7 @@ const videoGallery = [
     title: "Coconut Industry Success Stories",
     duration: "4:30",
     date: "August 2024",
-    thumbnail: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Coconut-Funeral-8.png",
+    thumbnail: "/images/activities/coconut-festival.png",
     views: "6.2K"
   }
 ];
@@ -181,7 +181,7 @@ const mediaFeatures = [
     outlet: "Bloomberg Africa",
     title: "Ghana's Export Boom: How FAGE is Driving Growth",
     date: "January 8, 2025",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/5-12.png",
+    image: "/images/activities/trade-mission.png",
     link: "#"
   },
   {
@@ -189,7 +189,7 @@ const mediaFeatures = [
     outlet: "Financial Times",
     title: "West African Trade: Ghana's Non-Traditional Export Success",
     date: "December 15, 2024",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/10-13.png",
+    image: "/images/activities/trade-fair.png",
     link: "#"
   },
   {
@@ -197,7 +197,7 @@ const mediaFeatures = [
     outlet: "African Business Magazine",
     title: "FAGE: 30 Years of Empowering Ghanaian Exporters",
     date: "November 28, 2024",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png",
+    image: "/images/activities/networking.png",
     link: "#"
   }
 ];

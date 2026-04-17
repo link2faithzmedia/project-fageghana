@@ -16,7 +16,7 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Coconut-Funeral-8.png",
+    image: "/images/activities/coconut-festival.png",
     dateDay: "28",
     dateMonth: "AUG",
     category: "Uncategorized",
@@ -26,7 +26,7 @@ const blogPosts: BlogPost[] = [
     href: "#",
   },
   {
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Sylvester-Mensah-2048x1365-1-1536x1024-1-9.jpg",
+    image: "/images/activities/training-workshop.jpg",
     dateDay: "25",
     dateMonth: "JUN",
     category: "المقالة العامة",
@@ -36,7 +36,7 @@ const blogPosts: BlogPost[] = [
     href: "#",
   },
   {
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/tj-blog-1-10.webp",
+    image: "/images/content/export-standards.webp",
     dateDay: "24",
     dateMonth: "JUN",
     category: "المقالة العامة",

@@ -91,7 +91,7 @@ const MainNavContent: React.FC<{ onMobileMenuToggle: () => void }> = ({
         <div className="relative h-[91px] flex items-center">
           <Link href="/">
             <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/cropped-Asset-1-1-1.png"
+              src="/images/logos/fage-logo-main.png"
               alt="FAGE Logo"
               width={140}
               height={55}
@@ -160,7 +160,7 @@ const MobileMenu: React.FC<{ onClose: () => void }> = ({ onClose }) => (
       <div className="flex items-center justify-between mb-8">
         <Link href="/">
           <Image
-            src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/fage-logo-white-2.png"
+            src="/images/logos/fage-logo-white.png"
             alt="FAGE Logo White"
             width={120}
             height={47}

@@ -8,7 +8,7 @@ import { Calendar, User, MessageCircle, ArrowRight, Search } from 'lucide-react'
 const newsArticles = [
   {
     id: 1,
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Coconut-Funeral-8.png",
+    image: "/images/activities/coconut-festival.png",
     date: "28 AUG",
     category: "Events",
     comments: 3,
@@ -18,7 +18,7 @@ const newsArticles = [
   },
   {
     id: 2,
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/Sylvester-Mensah-2048x1365-1-1536x1024-1-9.jpg",
+    image: "/images/activities/training-workshop.jpg",
     date: "15 AUG",
     category: "Trade Shows",
     comments: 5,
@@ -28,7 +28,7 @@ const newsArticles = [
   },
   {
     id: 3,
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/tj-blog-1-10.webp",
+    image: "/images/content/export-standards.webp",
     date: "10 AUG",
     category: "Industry News",
     comments: 8,
@@ -38,7 +38,7 @@ const newsArticles = [
   },
   {
     id: 4,
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png",
+    image: "/images/activities/networking.png",
     date: "05 AUG",
     category: "Member Stories",
     comments: 12,
@@ -48,7 +48,7 @@ const newsArticles = [
   },
   {
     id: 5,
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/5-12.png",
+    image: "/images/activities/trade-mission.png",
     date: "28 JUL",
     category: "Policy Updates",
     comments: 6,
@@ -58,7 +58,7 @@ const newsArticles = [
   },
   {
     id: 6,
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/10-13.png",
+    image: "/images/activities/trade-fair.png",
     date: "20 JUL",
     category: "Training",
     comments: 4,

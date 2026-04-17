@@ -22,7 +22,7 @@ const Footer = () => {
                     <div className="lg:col-span-4">
                         <a href="/" className="mb-8 inline-block">
                             <Image
-                                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/fage-logo-white-11.png"
+                                src="/images/logos/fage-logo-footer.png"
                                 alt="FAGE Logo"
                                 width={189}
                                 height={59}

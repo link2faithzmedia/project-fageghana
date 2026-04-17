@@ -49,7 +49,7 @@ export default function WhoWeArePage() {
               </div>
               <div>
                 <Image
-                  src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png"
+                  src="/images/activities/networking.png"
                   alt="FAGE Operations"
                   width={600}
                   height={600}

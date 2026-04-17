@@ -159,7 +159,7 @@ export default function ServicesPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-20">
               <div>
                 <Image
-                  src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/18-3.png"
+                  src="/images/content/services-overview.png"
                   alt="FAGE Services"
                   width={600}
                   height={600}

@@ -12,12 +12,12 @@ import "swiper/css/effect-fade";
 
 const slides = [
   {
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/10-13.png",
+    image: "/images/activities/trade-fair.png",
     subtitle: "Promoting non traditional exporters",
     title: "Federation of Associations of Ghanaian Exporters",
   },
   {
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/5-12.png",
+    image: "/images/activities/trade-mission.png",
     subtitle: "Promoting non traditional exporters",
     title: "Federation of Associations of Ghanaian Exporters",
   },

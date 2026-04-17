@@ -11,25 +11,25 @@ export default function ProductsPage() {
       number: '01',
       title: 'Pineapple Production',
       description: 'Premium quality pineapples grown with sustainable farming practices. Our pineapples are known for their exceptional sweetness and are exported to markets worldwide.',
-      image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/images_7.png',
+      image: '/images/products/pineapple.png',
     },
     {
       number: '02',
       title: 'Mango Production',
       description: 'Juicy, ripe mangoes cultivated by our experienced member farmers. Available in multiple varieties to meet diverse international market demands.',
-      image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png',
+      image: '/images/activities/networking.png',
     },
     {
       number: '03',
       title: 'Papaya Production',
       description: 'Fresh papayas harvested at peak ripeness, packed with nutrients and flavor. Grown using modern agricultural techniques for consistent quality.',
-      image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png',
+      image: '/images/activities/networking.png',
     },
     {
       number: '04',
       title: 'Vegetable Production',
       description: 'Wide variety of fresh vegetables including peppers, okra, and leafy greens. Cultivated with care to maintain nutritional value and freshness.',
-      image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/21170815-9165-4c39-9770-a60ff14b40ba-fageghana-com-beak-host/assets/images/16-14.png',
+      image: '/images/activities/networking.png',
     },
   ];
 
